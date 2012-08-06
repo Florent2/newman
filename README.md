@@ -38,12 +38,12 @@ DON'T HOOK UP NEWMAN TO ANY EMAIL INBOX THAT YOU CAN'T COMPLETELY WIPE OUT EVERY
 
 ### For a demonstration of how Newman is used:
 
-Check out [Jester](http://github.com/mendicant-university/jester) as well as some of the
+Check out [Jester](http://github.com/mendicant-original/jester) as well as some of the
 simple examples in this repository.
 
 ### For a walkthrough of Newman's codebase:
 
-Check out [Newman's Rocco-based API documentation](http://mendicant-university.github.com/newman/lib/newman.html).
+Check out [Newman's Rocco-based API documentation](http://mendicant-original.github.com/newman/lib/newman.html).
 
 We update this documentation on each gem release of newman, but to generate this documentation yourself, 
 you'll need to install the rocco gem.
@@ -119,7 +119,7 @@ journal. The original inspiration for this project came from some code
 written by [Brent Vatne](http://community.mendicantuniversity.org/people/brentvatne), 
 as well as from the general ideas behind Rack and Sinatra.
 
-[View the full list of contributors](https://github.com/mendicant-university/newman/contributors) to see who else has helped out.
+[View the full list of contributors](https://github.com/mendicant-original/newman/contributors) to see who else has helped out.
 
 ### License:
 
